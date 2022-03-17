@@ -4,6 +4,7 @@
 const express = require("express");
 const app = express();
 
+// localhost 포트
 const PORT = 3000;
 
 // 라우팅
