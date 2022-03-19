@@ -4,9 +4,6 @@
 const express = require("express");
 const app = express();
 
-// localhost 포트
-const PORT = 3000;
-
 // 라우팅
 const home = require("./routes/home");
 
@@ -16,6 +13,4 @@ app.set("view engine", "ejs");
 
 app.use("/", home);
 
-app.listen(PORT, () => {
-    console.log("서버 가동");
-});
+module.exports = app;
