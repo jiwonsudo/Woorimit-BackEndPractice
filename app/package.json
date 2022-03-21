@@ -11,7 +11,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node bin/www.js",
+    "start": "node ./bin/www.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -21,6 +21,7 @@
   "author": "",
   "license": "MIT",
   "bugs": {
+    "url": "https://github.com/jiwonsudo/AskForVoteServer/issues",
     "url": "https://github.com/jiwonsudo/AskForVoteServer/issues"
   },
   "homepage": "https://github.com/jiwonsudo/AskForVoteServer#readme",
