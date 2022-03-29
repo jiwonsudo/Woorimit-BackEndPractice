@@ -17,7 +17,7 @@ function register() {
     };
     console.log(req);
 
-    fetch("/login", {
+    fetch("/register", {
         method: "POST",
         headers: {
             "Content-Type": "application/json",
