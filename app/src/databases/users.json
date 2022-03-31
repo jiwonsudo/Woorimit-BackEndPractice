@@ -1,5 +1,17 @@
 {
-  "id": ["jiwon", "hyewon"],
-  "pw": ["jiwon50", "hyewon50"],
-  "name":["지원", "혜원"]
+  "id": [
+    "jiwon",
+    "hyewon",
+    "hello"
+  ],
+  "pw": [
+    "jiwon50",
+    "hyewon50",
+    "1234"
+  ],
+  "name": [
+    "지원",
+    "혜원",
+    "hi"
+  ]
 }
